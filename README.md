@@ -1,2 +1,1 @@
-# data-pracitce
-General collection of work-in-progress data science material 
+# Holding GitEireann thing pending access to datasoc github
